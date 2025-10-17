@@ -1,8 +1,9 @@
 # metasploit-pro-linux
 
 1. This is a cracked version of Metasploit Pro for Linux. The version is 4.22.2.
-2. The setup is pretty simple. Sudo install the bin file(lol). Then execute(./) the "_inst.sh" file.
-3. After that is done, you're good to go.
+2. The setup is pretty simple. Download the release zip file.
+3. Sudo install the bin file(lol). Then execute(./) the "_inst.sh" file.
+4. After that is done, you're good to go.
 
 BUT you may encounter a problem. I will not go into what the error is specifically because I forgot(😅).
 
