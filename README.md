@@ -18,5 +18,9 @@ Now, the last thing you may have to do is... you can setup...(I forgot dumb stuf
 Here's what you gotta do in terminal:
 
 `sudo crontab -e`
-then add this line
+then add this line(presuming you installed in /opt/metasploit)
 `@reboot /opt/metasploit/ctlscript.sh`
+
+## To Use
+
+Type `msfpro` in terminal to work in cli mode. OR just go to the specific port you used for it in a web browser. E.g. https://localhost:3790
